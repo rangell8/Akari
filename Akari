@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("Sorry! Akari is discontinued! Please join and use discord.gg/getnova! - rexy")
+game:GetService("Players").LocalPlayer:Kick("Sorry! Akari is discontinued! Please join and use discord.gg/getnova! - rexy")
